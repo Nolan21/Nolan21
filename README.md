@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nolan21
 - 👀 I’m interested in becoming a fullstack web developer.
-- 🌱 I’m currently learning the Odin Project.
+- 🌱 I’m currently learning primarily via the Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... email: Nolankislauskis@yahoo.com or discord: Nolan21#3320
 
